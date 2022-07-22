@@ -1,0 +1,6 @@
+/* Font Style */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,300&family=Poppins:wght@700&family=Roboto+Mono:wght@500&display=swap');
+/* common style */
+body{
+    font-family: 'Poppins', sans-serif;
+}
